@@ -10,9 +10,3 @@ end
 
 fido = Dog.new
 fido.bark
-
-class Person
-  def talk
-    puts "Hello World"
-  end
-end
